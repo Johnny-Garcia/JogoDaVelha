@@ -90,6 +90,7 @@ public class Principal{
 			
 		}while(continuarJogando == 1);
 		
+		//comentario teste
 		sc.close();
 	}
 
